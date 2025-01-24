@@ -48,3 +48,7 @@ Md Ahmed Mentor: Neela Santhosh
 
 **Acknowledgments**
 Thanks to Coditech IT Solutions for providing the internship opportunity.
+
+**OUTPUT OF THID ALU **
+![Image](https://github.com/user-attachments/assets/d309ec51-8edb-44b4-ad15-5ce910eadf9d)
+![Image](https://github.com/user-attachments/assets/2a251b86-4914-42ce-8475-89b2d6476152)
